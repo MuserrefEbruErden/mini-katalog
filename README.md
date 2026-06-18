@@ -26,4 +26,9 @@ cd mini-katalog
 flutter pub get
 4. Uygulamayı başlatın:
 flutter run
+## Ekran Görüntüleri
 
+![Ana Sayfa](screenshots/flutter_01.png)
+![Ana Sayfa 2](screenshots/flutter_02.png)
+![Ürün Detayı](screenshots/flutter_03.png)
+![Sepet](screenshots/flutter_04.png)
